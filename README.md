@@ -1,2 +1,2 @@
-# cds-analysis-kube
+# cds-notebook
 citizen data scientist's analytics environment
